@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mazerunner619
-- 👀 I’m interested in Web Development .
-- 🌱 I’m currently learning some backend web dev stuffs .
+- 👋 Hi, I’m Atif, 3rd year Informaton Technology undergrad looking for web dev internships.
+- 👀 I’m interested in Web Development and programming .
+- => my portfolio - https://mazerunner619.github.io/myPortfolio2/
 - 📫 instagram :  https://www.instagram.com/happiest_depressed_1/?hl=en
 
 <!---
