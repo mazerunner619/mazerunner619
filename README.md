@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Atif, 3rd year Informaton Technology undergrad
+- 👋 Hi, I’m Atif, Final year Informaton Technology undergrad
 - 👀 I’m interested in Web Development and programming.
 - ✨ my portfolio - https://mazerunner619.github.io/myPortfolio2/
 <!---
